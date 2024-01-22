@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xstos I have a B.Eng in Software Engineering from McMaster University in Hamilton, ON, Canada
+- 👋 Hi, I’m @xstos
 - 👀 I’m interested in visual programming languages
 - 🌱 I’m currently on sabbatical since May 2022 playing with FRP and custom state-management paradigms
 - 📫 How to reach me [kriteris.com](https://kriteris.wordpress.com/2016/11/23/contact/)
