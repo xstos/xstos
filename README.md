@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xstos
 - 👀 I’m interested in ecology, permaculture, and visual programming languages
 - 🌱 I’m currently on sabbatical since May 2022 playing with FRP and custom state-management paradigms
-- 📫 How to reach me [kriteris.com](https://kriteris.wordpress.com/2016/11/23/contact/)
+- 📫 How to reach me [kriteris.com](https://kriteris.com/)
 
 Some links of interest:
 
